@@ -1,4 +1,3 @@
-# AWS RDS Masterclass Commands
 
 ## Databases on EC2 Instance - Demo
 ### Begin Configuration :
