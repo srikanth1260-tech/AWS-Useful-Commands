@@ -3,7 +3,7 @@
 ### Begin Configuration :
 ```bash
 sudo su -
-yum install -y mariadb105-server
+yum install mariadb-server -y
 systemctl enable mariadb
 systemctl start mariadb
 yum -y update
